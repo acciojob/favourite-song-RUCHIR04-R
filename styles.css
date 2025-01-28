@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+body{
+	font-family: Arial, sans-serif;
+	background-color: #fofofo;
+	margin: 0;
+	padding: 0;
+}
+div {
+	margin: 50px auto;
+	padding: 20px;
+	max-width: 600px;
+	background-color: #ffffff;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	text-aling: center;
+}
+p{
+	font-size: 20px;
+	color: #333333
+}
+a{
+	color: #le90ff;
+	text-decpration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
